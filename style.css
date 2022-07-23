@@ -1,0 +1,100 @@
+/**{
+    margin:0;
+    padding:0;
+}
+*/
+  body{
+    margin:0;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size:17px;
+    color:#926239;
+    line-height:1.6;
+  }
+
+  #showcase{
+    background-image:url('http://traversymedia.com/downloads/assets/beachshowcase.jpg');
+    background-size:cover;
+    background-position:center;
+    height:100vh; 
+ /* height:500px;*/
+    display:block;  
+    /* display:flex;
+    flex-direction:column; */
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    padding:140px 20px 0 20px; 
+  }
+
+  
+  #showcase h1{
+    font-size:50px;
+    line-height:1.2;
+  }
+
+  #showcase p{
+    font-size:20px;
+    margin-bottom:15px;
+  }
+
+  #showcase .button{
+    font-size:18px;
+    text-decoration:none;
+    color:#926239;
+    border:#926239 1px solid;
+    padding:15px 20px;
+    border-radius:10px;
+    margin-top:10px;
+  }
+
+  #showcase .button:hover{
+    background:#926239;
+    color:#fff;
+  }
+
+  #section-a{
+    padding:20px;
+    background:#926239;
+    color:#fff;
+    text-align:center;
+  }
+
+  #section-b{
+    padding:20px;
+    background:#f4f4f4;
+    text-align:center;
+  }
+
+  
+
+ 
+
+
+.box{
+
+     box-sizing:border-box;
+     padding:0px;
+     width:33%;
+     display:inline-block;
+     
+}
+
+.brown{
+     
+    background:#926239;
+    color:#fff;
+    padding:20px;
+   
+}
+
+
+.white{
+     
+    padding:20px;
+
+}
+
+ 
+
+
+ 
